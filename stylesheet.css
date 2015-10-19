@@ -1,0 +1,40 @@
+body {
+	background-image: url("http://www.hdwallpapers.in/walls/trine_underwater_scene-wide.jpg");
+	background-color: black;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#textfield {
+	text-align: center;
+	vertical-align: top;
+    width:250px;
+   	height:26px;
+   	margin:0;
+   	opacity: 0.99;
+}
+#gobutton {
+   	border: 1px solid black;
+   	border-width:0px 0px 0px 1px;  
+   	margin:0;
+	width: 75px;
+   	height:32px;
+}
+div.inputarea {
+	text-align: center;
+	margin: auto;
+	margin-top: 20%; 
+	background-color: black;
+	padding: 20px;
+	width: 35%; 
+	opacity: 0.8;
+}
+div.room {
+	float: auto; 
+	margin: auto;
+	margin-top: 50px;
+	padding: 5px;
+	background-color: white;
+	opacity: 0.6;
+   	border: 1px solid black;
+	width: 30%;
+}
